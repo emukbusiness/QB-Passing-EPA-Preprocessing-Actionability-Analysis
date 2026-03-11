@@ -4,7 +4,7 @@ QB Passing EPA Analysis
 By Eamon Mukhopadhyay
 
 
-This project essentially analyzes the weekly quarterback passing data from 2024 and builds three model views: a cleaned broad model, an actionable subset model, and an efficiency sub model. It also exports a corr matrix, feature importance chart, and binning analysis visuals. The target variable used in workflow is passing_epa. It aims to demonstrate the importance of preprocessing and cool applicable preprocessing techniques that can help avoid central, common issues. Dataset by nflverse, via https://github.com/nflverse/nflverse-data/releases/download/player_stats/stats_player_week_2024.csv.
+This project essentially analyzes the weekly quarterback passing data from 2024 and builds three model views: a cleaned broad model, an actionable subset model, and an efficiency sub model. It also exports a corr matrix, feature importance chart, and binning analysis visuals. The target variable used in workflow is passing_epa. It aims to demonstrate the importance of preprocessing and cool applicable preprocessing techniques that can help avoid central, common issues in sports datasets and general machine learning analysis. Dataset by nflverse, via https://github.com/nflverse/nflverse-data/releases/download/player_stats/stats_player_week_2024.csv.
 
 __________________________________
 here are the two files needed in the same folder:
